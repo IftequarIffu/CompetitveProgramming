@@ -2,6 +2,7 @@
 This repo contains questions solved by me on Codechef and Codeforces
 
 ## Topics of CP
+
 Binary Search
 Quicksort
 Merge Sort
