@@ -3,7 +3,7 @@ This repo contains questions solved by me on Codechef and Codeforces
 
 ## Topics of CP
 
-Binary Search
+Binary Searcha
 Quicksort
 Merge Sort
 Suffix Array
